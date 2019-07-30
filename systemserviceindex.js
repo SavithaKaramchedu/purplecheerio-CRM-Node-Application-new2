@@ -1,4 +1,4 @@
-const app = require('purplecheerio-wave');
+const app = require('cirruswave');
 const initoptions={
  "aclconfig":"aclconfig.json",
  "secret":"helloworld",
